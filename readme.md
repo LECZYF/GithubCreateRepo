@@ -1,13 +1,16 @@
-GithubCreateRepo by LECZYF
+## GithubCreateRepo by LECZYF
 
 Simple fish script for initializing empty github repository from command line. 
 
-Usage:
-'''
-gcreate <username> <repo name> <isPrivate>
+### Usage:
 
+```
+gcreate <username> <repo name> <isPrivate>
+```
+example:
+```
 gcreate LECZYF GithubCreateRepo false
-'''
+```
 
 What it does (hello cpt. Obvious):
 1. Creates empty dir with repo name, cds to it and initiates git repo.
