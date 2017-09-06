@@ -2,6 +2,10 @@
 
 Simple fish script for initializing empty github repository from command line. 
 
+### Deployment:
+
+Just copy the file to your ~/.config/fish/functions/ directory.
+
 ### Usage:
 
 ```
