@@ -17,7 +17,7 @@ What it does (hello cpt. Obvious):
 2. Creates repo in github
 3. Creates devel branch
 4. Sets upstreams for master and devel
-5. Pushes initial commit with readme "<repo name> by <username>
+5. Pushes initial commit with readme header: 'repo name' by 'username'
 
 Based on GitHub API v3.
 
